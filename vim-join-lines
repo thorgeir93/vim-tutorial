@@ -1,0 +1,21 @@
+
+
+
+        VIM - Join lines
+===============================
+
+* J
+foo
+bar
+
+
+* {Visual}J	
+{
+    a: 1,
+    b: 2
+}
+
+
+* gJ		
+    foo
+    bar

@@ -1,0 +1,8 @@
+
+~~~ VISUAL MODE ~~~
+
+v     | Start Visual mode per character.
+V     | Start Visual mode linewise.
+
+U     | Convert text to UPPERCASE.
+

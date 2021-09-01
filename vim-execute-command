@@ -1,0 +1,6 @@
+:read! - Run cmd and read stdout
+===============================
+
+* :r!{cmd}
+
+* :r!date --utc
