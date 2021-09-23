@@ -1,4 +1,9 @@
 
+    VIM - Plugins
+===============================
 
-* dbex.vim
-    * For SQL queries
+    I use two plugins:
+      * bufexplorer
+        * Better buffer navigation
+      * dbext
+        * For SQL queries

@@ -1,0 +1,17 @@
+# VIM memo list
+    * [I - Display all lines that contain the word under the cursor.
+    * echo expand('%:p') - show fullpath of the current file.
+    * g~~ - uppercase the line.
+    * g; - move to last change
+    * g, - Opisite with g;
+    * /motion/;/character - The first one first finds the next occurrence of "motion", and then the first
+    * "_dd - Deletes a line to blackhole register, so my last yanked line is still available.
+    * g?? - Apply Rot13 method on the current line 
+    * !mv % %:s?.py?.sh? - Example to Renaming a file extenstion. `:s` is the search mechanism.
+    * `< - Move to last visual select
+    * !l - Pipe the current line to external command, e.g. using jq to parse json.
+    * ]s - Jump to next misspelled word.
+    * gf - when cursor on http URL, it downloads the content to /tmp folder!
+    * :bmod - Go to next modified buffer.
+
+    * "ay{motion} - yank into register a

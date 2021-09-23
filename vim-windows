@@ -1,0 +1,14 @@
+
+    VIM - Windows
+===============================
+    ctrl+w v    Opens current buffer in vertical window 
+    ctrl+w s    Opens current buffer in horizontal window
+
+
+    ctrl+w {h,j,k,l}    Move between open windows
+    ctrl+w {H,J,K,L}    Move window around
+
+    ... possible to use tabs
+    
+    ctrl+w T            Move current buffer to new window in new tab
+

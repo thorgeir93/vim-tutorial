@@ -4,18 +4,19 @@
         VIM - Join lines
 ===============================
 
-* J
+    J
 foo
 bar
 
 
-* {Visual}J	
-{
-    a: 1,
-    b: 2
-}
+  {Visual}J	
+
+[
+    1,
+    2
+]
 
 
-* gJ		
+  gJ		
     foo
     bar

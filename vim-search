@@ -1,0 +1,11 @@
+
+    VIM - Search
+===============================
+
+    /{search string}  search for pattern
+
+    *                 search forward word under cursor
+    #                 search backward word under cursor
+
+    n                 Navigate to the next match
+    N                 Navigate to the previous match

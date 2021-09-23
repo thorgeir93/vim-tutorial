@@ -1,8 +1,15 @@
 
-  * gf - go to file
-  * gx - go to appliction
+    VIM - Extra tips
+===============================
 
-* Vim daily usage
-  * In chrome
-  * Create jira template
-  * Todo list
+    gf      go to file ./files/file1.py
+    gx      go to appliction https://sosialistaflokkurinn.is/
+
+    VIM DAILY USAGE
+      * In chrome
+        * yf{any charcters}       yank link
+      * Create jira template
+      * Todo list
+        * gx - open screenshot
+        * gx - open link
+        * gf - open link (to download)

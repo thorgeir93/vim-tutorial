@@ -1,22 +1,22 @@
 
 
-        VIM - Navigate
+    VIM - Navigate
 ===============================
 
-* Up, Left, Right, Down:
+    Up, Left, Right, Down:
+    
+                k
+              h   l
+                j
 
-              k
-            h   l
-              j
+    {	    - Paragraphs backward
+    }     - Paragraphs forward
 
-* {	    - Paragraphs backward
-* }     - Paragraphs forward
+    gg    - Goto top
+    G     - Goto last line
 
-* gg    - Goto top
-* G     - Goto last line
+    CTRL-O - Go to Older cursor position in jump list
+    CTRL-I - Go to newer cursor position in jump list
+    CTRL-^ - Go to previously edited file.
 
-* CTRL-I - Go to newer cursor position in jump list
-* CTRL-O - Go to Older cursor position in jump list
-* CTRL-^ - Go to previously edited file.
-
-* ... and lot more navigate options :D
+    ... and lot more navigate options :D

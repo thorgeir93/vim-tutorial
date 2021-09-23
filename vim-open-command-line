@@ -4,8 +4,6 @@
     VIM - Open command line
 ===============================
 
-* :     - [in normal mode] opens command line.
+  :     - [in normal mode] opens command line.
 
-* c_CTRL-F q: q/ q?
-
-
+  c_CTRL-F q: q/ q?

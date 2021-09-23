@@ -1,0 +1,5 @@
+
+            VIMDIFF
+-----------------------------------
+
+    !vimdiff ./files/file1.py ./files/file2.py

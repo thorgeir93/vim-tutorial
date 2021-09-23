@@ -1,6 +1,10 @@
 
 
-        VIM - Command Line
+        VIM - Current file
 ===============================
 
-* %     - Current file
+      %       Current file
+
+      :!cat %
+
+      ... test python scripts in ./files

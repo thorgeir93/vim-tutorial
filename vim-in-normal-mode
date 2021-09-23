@@ -1,14 +1,17 @@
 
 
->>     - Indent
+    VIM - Utils
+===============================
 
-foo
-bar
-
-
-
-.     - Repeat last 
-
-foo
-bar
+    >>      Indent
+    
+    foo
+    bar
+    
+    
+    
+    .     - Repeat last 
+    
+    foo
+    bar
 

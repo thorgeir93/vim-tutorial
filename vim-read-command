@@ -1,0 +1,7 @@
+
+    VIM - read
+===============================
+
+  :read!{external command}
+
+  :r!date --utc

@@ -1,6 +1,7 @@
 
 
-~~~ WORD COMPLETION ~~~
+      VIM - WORD COMPLETION
+===============================
 
 CTRL-N      - finds the next matching completion.
 CTRL-P      - finds the previous matching completion.
@@ -8,10 +9,9 @@ CTRL-P      - finds the previous matching completion.
 CTRL-X-N    - finds the next matching completion in current file.
 CTRL-X-P    - finds the next matching completion in current file.
 
-CTRL-X-L    - finds the next matching line.
+
 CTRL-X-F    - finds the next matching filename.
+CTRL-X-L    - finds the next matching line.
 
 
 :help CTRL
-
-* vim-in-

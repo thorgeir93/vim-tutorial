@@ -1,8 +1,14 @@
 
-~~~ VISUAL MODE ~~~
+    VIM - In Visual Mode
+===============================
 
-v     | Start Visual mode per character.
-V     | Start Visual mode linewise.
+    v         Start Visual mode per character.
+    V         Start Visual mode linewise.
 
-U     | Convert text to UPPERCASE.
+    ctrl-v    Start Visual Block mode
+
+      Change me
+      Change me
+    
+    U         Convert text to UPPERCASE.
 
